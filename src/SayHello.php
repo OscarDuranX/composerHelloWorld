@@ -7,7 +7,7 @@
  * Time: 17:18
  */
 
-namespace acahca;
+namespace Oscar\Hello;
 class SayHello
 {
 
